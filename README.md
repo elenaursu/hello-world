@@ -1,6 +1,6 @@
 # hello-world
 
-Hey guys, 
+Hello world, 
 
 This is my Hello World project on GitHub.
 
